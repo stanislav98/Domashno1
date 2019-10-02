@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\FormApp1\FormApp1\bin\Debug\FormApp1.exe.config
+D:\za universiteta\TSP\FormApp1\FormApp1\bin\Debug\FormApp1.exe
+D:\za universiteta\TSP\FormApp1\FormApp1\bin\Debug\FormApp1.pdb
+D:\za universiteta\TSP\FormApp1\FormApp1\obj\Debug\FormApp1.csprojAssemblyReference.cache
+D:\za universiteta\TSP\FormApp1\FormApp1\obj\Debug\FormApp1.Form1.resources
+D:\za universiteta\TSP\FormApp1\FormApp1\obj\Debug\FormApp1.Properties.Resources.resources
+D:\za universiteta\TSP\FormApp1\FormApp1\obj\Debug\FormApp1.csproj.GenerateResource.cache
+D:\za universiteta\TSP\FormApp1\FormApp1\obj\Debug\FormApp1.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\FormApp1\FormApp1\obj\Debug\FormApp1.exe
+D:\za universiteta\TSP\FormApp1\FormApp1\obj\Debug\FormApp1.pdb
